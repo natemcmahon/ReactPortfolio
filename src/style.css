@@ -1,0 +1,33 @@
+#welcome-image {
+    height:10%;
+    max-height: 1000px;
+    width: auto;
+}
+
+#opening {
+    display: flex;
+    align-items: center;
+    padding-top: 10%;
+}
+
+.past-project {
+    background-color: aquamarine;
+    border: solid;
+    padding: 3%;
+    margin: 1%;
+}
+
+.project-screenshot {
+    max-width: -webkit-fill-available;
+}
+
+.contact-logo {
+    display: flex;
+    max-width: 100px;
+    align-items: center;
+}
+
+#logo-row {
+    display: flex;
+    align-items: center;
+}
